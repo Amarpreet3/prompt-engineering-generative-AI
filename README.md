@@ -56,6 +56,9 @@ To get started with this notebook, follow these steps:
      ```
    - Follow the instructions and run the cells to explore prompt engineering techniques.
 ### Road Map for Prompt Engineering 
+![image](https://github.com/Amarpreet3/prompt-engineering-generative-AI/assets/96805692/8bbef525-9603-415f-b137-1d0ac86ee089)
+
+
 [prompt-engineering.pdf](https://github.com/Amarpreet3/prompt-engineering-generative-AI/blob/main/prompt-engineering.pdf)
 
 ### Contributing
