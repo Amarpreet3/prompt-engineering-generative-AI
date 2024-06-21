@@ -57,8 +57,9 @@ To get started with this notebook, follow these steps:
      jupyter notebook prompt-engineering-generative-AI.ipynb
      ```
    - Follow the instructions and run the cells to explore prompt engineering techniques.
-### Road Map
-![image](https://github.com/Amarpreet3/prompt-engineering-generative-AI/assets/96805692/8bbef525-9603-415f-b137-1d0ac86ee089)
+
+![image](https://github.com/Amarpreet3/prompt-engineering-generative-AI/assets/96805692/0a8e5bdc-f44b-4e0d-a0b5-06eea1c7e44f)
+
 
 
 [prompt-engineering.pdf](https://github.com/Amarpreet3/prompt-engineering-generative-AI/blob/main/prompt-engineering.pdf)
