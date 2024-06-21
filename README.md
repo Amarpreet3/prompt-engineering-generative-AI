@@ -55,6 +55,8 @@ To get started with this notebook, follow these steps:
      jupyter notebook prompt-engineering-generative-AI.ipynb
      ```
    - Follow the instructions and run the cells to explore prompt engineering techniques.
+### Road Map for Prompt Engineering 
+[prompt-engineering.pdf](https://github.com/user-attachments/files/15930348/prompt-engineering.pdf)
 
 ### Contributing
 
@@ -75,7 +77,7 @@ Happy prompt engineering!
 ---
 
 
-#References
+### References
 
 Model [flan-t5](https://www.kaggle.com/models/google/flan-t5/PyTorch/base/4)
 
