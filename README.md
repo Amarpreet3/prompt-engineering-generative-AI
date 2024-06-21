@@ -2,6 +2,7 @@
 
 Welcome to the "Prompt Engineering with Generative AI" repository! This repository contains a Jupyter Notebook that demonstrates various techniques and strategies for prompt engineering with generative AI models. The primary focus is on utilizing large language models (LLMs) to achieve desired outputs by carefully crafting and refining prompts.
 
+![image](https://github.com/Amarpreet3/prompt-engineering-generative-AI/assets/96805692/81cc9e17-0676-4a0a-9050-a34a57fd2f19)
 
 ### Repository Contents
 
