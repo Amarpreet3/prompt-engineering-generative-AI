@@ -4,7 +4,7 @@ Welcome to the "Prompt Engineering with Generative AI" repository! This reposito
 
 ### Repository Contents
 
-- **`prompt-engineering-with-generative-ai.ipynb`**: The main Jupyter Notebook containing code, explanations, and examples to guide you through the process of prompt engineering. The notebook includes sections on zero-shot, one-shot, and few-shot inference, as well as parameter tuning for optimal results.
+- **`prompt-engineering-generative-ai.ipynb`**: The main Jupyter Notebook containing code, explanations, and examples to guide you through the process of prompt engineering. The notebook includes sections on zero-shot, one-shot, and few-shot inference, as well as parameter tuning for optimal results.
 
 ### Key Sections in the Notebook
 
